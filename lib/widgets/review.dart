@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import '../models/reviewmodel.dart';
-import '../models/reviews.dart';
-import '../widgets/review.dart';
-import '../widgets/info_card.dart';
+// import '../models/reviews.dart';
+// import '../widgets/review.dart';
+// import '../widgets/info_card.dart';
 
 class ReviewWidget extends StatelessWidget {
   final ReviewModel reviewItem;
